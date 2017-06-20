@@ -1,0 +1,161 @@
+/* ----- BARRA NAVEGACIÓN ----- */
+.navbar {
+    font: 14px Montserrat, sans-serif;
+    background: #222;
+    opacity: 0.9;
+    margin-bottom: -55px;
+    border: 0;
+    border-radius: 0;
+    height: .9px;
+    transition-duration: .7s;
+}
+
+/* Color de la barra en dispositivos moviles */
+.navbar-collapse{
+    background: #222;
+}
+
+/* Color de las letras en la navbar */
+.navbar li a, .navbar{
+    color: #fff !important;
+}
+
+.navbar-nav li a, .navbar-nav li.active a {
+    transition-duration: .6s;
+    font-weight: bold;
+    font: 12px;
+}
+
+/* Color de fondo en los elementos activos de la navbar */
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>
+.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    background-color: #000;
+}
+
+/* Color al poner el mouse sobre los elementos de la navbar */
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #2CA7AC !important;
+}
+
+/* Color del logo */
+.navbar-brand {
+    color: #fff !important;
+}
+
+/* ----- JUMBOTRON ----- */
+.jumbotron {
+    background: transparent;
+    background-image: none;
+    color: #fff;
+    padding: 50px;
+    height: 300px;
+}
+
+/* ----- Titulos ----- */
+h1, h2, h3, h4, h5, h6{
+    text-align: left;
+    margin-bottom: 17px;
+    margin-top: -3px;
+}
+
+.titulo {
+    text-transform: uppercase;
+    text-shadow: 2px 1px #ccc;
+    font-weight: bold;
+}
+
+/* ----- CONTENIDO ----- */
+
+/* Etiquetas */
+body {
+    font: 15px Montserrat, sans-serif;
+}
+
+img {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background: #222;
+    height: 200px;
+    font: 12px;
+    color: #ccc;
+}
+
+/* Clases Colores */
+.blanco {
+    color #fff;
+}
+
+.azul {
+    color: #039be5;
+}
+
+.rojo {
+    color: #e53935;
+}
+
+.cuerpo {
+    background: #f5f5f5;
+}
+
+/* Clases */
+.cuerpo > .container > .row {
+    margin-bottom: 50px;
+}
+
+.encabezado {
+    background-image: url("../images/encabezado.jpg");
+}
+
+.negritas {
+    font-weight: bold;
+}
+
+.container > .row > .col-md-12, .col-md-8, .col-md-3 {
+    background: #fff;
+    border: 4px double #ebebeb;
+    padding: 30px;
+}
+
+.col-md-3 {
+    float: right;
+}
+
+.header {
+    border-bottom: 4px double #ebebeb;
+    margin: auto;
+    margin-bottom: 17px;
+}
+
+.modal-body {
+    height: auto;
+}
+
+hr {
+    border: 1.5px double #ebebeb;
+}
+
+/* Slide */
+@keyframes slide {
+    0% {
+        opacity: 0;
+        transform: translateY(70%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0%);
+    }
+}
+@-webkit-keyframes slide {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(70%);
+    }
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    }
+}
