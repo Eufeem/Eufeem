@@ -1,10 +1,10 @@
 ### Hi, I'm Carlos García 🎸🧑🏻‍💻
 
-I'm a Full Stack Developer and really like 
+I'm a Full Stack Developer in WM and one of my best things to do in my day are know new technologies to develop front-end and back-end applications. 
 
 
 
-💻 I’m currently learning React
+💻 I’m currently learning:
 + React
 + SwiftUI
 + Android
