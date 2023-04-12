@@ -4,6 +4,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EufeemGO) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eufeemgo)
 
+[![](https://visitcount.itsvg.in/api?id=eufeem&icon=2&color=1)](https://visitcount.itsvg.in)
+
 I'm a Full Stack Developer in WM and one of my best things to do in my day are know new technologies to develop front-end and back-end applications. 
 
 **💻 &nbsp; I’m currently learning:**
